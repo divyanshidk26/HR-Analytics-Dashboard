@@ -9,10 +9,10 @@ This dashboard provides deep visibility into workforce trends, helping human res
 - Average Salary: $6.50K
 - Average years at company: 7.01 years
 # Visualization & Insights
--Department Filter: Easily slice data by Human Resources, Research & Development, and Sales
--Attrition by Demographics: Breaks down turnover by age groups, gender (Male vs Female), and job roles.
--Education & Background: Analyzes attrition distribution across education fields such as Life Sciences,Medical, Marketing, and Technical Degrees.
--Salary Brackets & Tenure: Visualizes attrition trends mapped against salary ranges and years of experience.
+- Department Filter: Easily slice data by Human Resources, Research & Development, and Sales
+- Attrition by Demographics: Breaks down turnover by age groups, gender (Male vs Female), and job roles.
+- Education & Background: Analyzes attrition distribution across education fields such as Life Sciences,Medical, Marketing, and Technical Degrees.
+- Salary Brackets & Tenure: Visualizes attrition trends mapped against salary ranges and years of experience.
 # Built With
--Microsoft Power BI - Data visualization and dashboard creation
--DAX - Custom measures and calculations.
+- Microsoft Power BI - Data visualization and dashboard creation
+- DAX - Custom measures and calculations.
